@@ -3,8 +3,8 @@ Modified Line 2
 Modified Line 3
 Modified Line 4
 Line 5
-Line 6
-Line 7
+Modified Line 6 from folder2
+Modified Line 7 from folder2
 Line 8
 Line 9
 Line 10
