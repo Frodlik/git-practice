@@ -1,8 +1,8 @@
 Line 1
 Line 2
-Different Line 3 in git_1
+Modified Line 3 in git_2
 Line 4
-Different Line 5 un git_1
+Modified Line 5 in git_2
 Line 6
 Line 7
 Line 8
